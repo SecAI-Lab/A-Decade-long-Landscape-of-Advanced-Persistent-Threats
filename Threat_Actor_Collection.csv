@@ -1,0 +1,604 @@
+Threat Actor,Other Names,Country,Sponsor,Motivation,First seen
+APT1,"Brownfox, Comment group, Comment panda, Comment crew, G0006, Brown fox, operation oceansalt, Operation “oceansalt”, Shanghai group, Byzantine candor, Shadyrat, Operation “seasalt”, Byzantine hades, Pla unit 61398, Group 3, Operation “siesta”, Apt 1, Tg-8223, Gif89a",CN,"China. State-sponsored, 2nd Bureau of the People’s Liberation Army (PLA) General Staff Department’s (GSD) 3rd Department, commonly known by its Military Unit Cover Designator (MUCD) as Unit 61398","Espionage, Information theft and espionage",2006.0
+Nitro,Covert grove,CN,,Information theft and espionage,2011.0
+Dust Storm,G0031,,Seems state-sponsored,Information theft and espionage,2010.0
+WET PANDA,Red chimera,CN,,,
+FOXY PANDA,,CN,,,
+PREDATOR PANDA,,CN,,,
+UNION PANDA,,CN,,,
+SPICY PANDA,,CN,,,
+ELOQUENT PANDA,,CN,,,
+DIZZY PANDA,Ladyboyle,,,,
+Grayling,,CN,,,
+APT2,"Apt 2, Msupdater, Pla unit 61486, Searchfire, Group 36, Tg-6952, Putter panda, G0024, 4hcrew, Sulphur",CN,"China. State-sponsored, Unit 61486 of the 12th Bureau of the PLA’s 3rd General Staff Department (GSD)","Espionage, Information theft and espionage",2007.0
+APT3,"Buckeye, Apt 3, Boyusec, Gothic panda, Red sylvan, Group 6, Operation “clandestine wolf”, Bronze mayfair, Ups team, Ups, Part deux, Operation “clandestine fox”, Boron, Tg-0110, Operation “double tap”",CN,"China. State-sponsored, Ministry of State Security and Internet security firm Guangzhou Bo Yu Information Technology Company Limited (“Boyusec”)","Espionage, Information theft and espionage",2007.0
+DarkHotel,"Tapaoux, Dubnium, Operation “the gh0st remains the same”, Operation “inexsmar”, Apt-c-06, Atk 52, Tungsten bridge, Operation “darkhotel”, Atk52, Pioneer, Operation “daybreak”, Fallout team, G0012, Nemin, Nemim, Zigzag hail, Ctg-1948, T-apt-02, Operation “powerfall”, Luder, Shadow crane, Sig25, Karba",KR,Korea (Republic of). State-sponsored,"Espionage, Information theft and espionage",2007.0
+APT12,"Bronze globe, Apt 12, Numbered panda, Ctg-8223, Beebus, Crimson iron, Dyncalc, Group 22, Ixeshe, Tg-2754, Dnscalc, Calc team",CN,China. State-sponsored,"Espionage, Information theft and espionage",2009.0
+APT16,"G0023, Apt 16, Svcmondr",CN,China,"Espionage, Information theft and espionage",2015.0
+APT17,"Aurora panda, Helium, Hidden lynx, Operation “smn”, Group 8, G0001, Axiom, Tailgater team, Group 72, G0025, Bronze keystone, Dogfish",CN,China. State-sponsored,"Espionage, Information theft and espionage",2009.0
+APT18,"Scandium, Dynamite panda, Tg-0416, Wekby, Apt 18, Pla navy, G0026",CN,"China. State-sponsored, PLA Navy","Espionage, Information theft and espionage",2009.0
+APT19,"Temp.avengers, Tg-3551, G0073, Pinkpanther, Webmasters, Apt 19, Bronze firestone, Black vine, G0009, Pupa, Kungfu kittens, Operation “kingslayer”, Codoso, C0d0so0, Sunshop group, Group 13, Deep panda",CN,"China. A group likely composed of freelancers, with some degree of sponsorship by the Chinese government. (FireEye)","Espionage, Information theft and espionage",2013.0
+Naikon,"Override panda, Camerashy, Pla unit 78020, G0013, Bronze geneva, G0019, Apt 30, Ctg-5326, Raspberry typhoon, Radium, Bronze sterling",CN,China. State-sponsored,"Espionage, Information theft and espionage",2005.0
+APT30,G0013,CN,China,Espionage,
+LOTUS PANDA,"Spring dragon, Dragonfish, Atk1, G0030, Lotus panda, Itg06, Operation “camerashy”, St group, Red salamander, Bronze elgin",CN,"China. State-sponsored, PLA Unit 78020","Espionage, Information theft and espionage",2010.0
+HURRICANE PANDA,Operation “poisoned hurricane”,CN,,Information theft and espionage,2013.0
+APT27,"Lucky mouse, Ziptoken, Luckymouse, Operation “spoiledlegacy”, Operation “pzchao”, Operation “drbcontrol”, drbcontrol, Atk 15, Apt 27, Group 35, Emissary panda, Operation “stealthytrident”, Greedytaotie, Operation “iron tiger”, Tg-3390, Iron taurus, Bronze union, Earth smilodon, Budworm, Red phoenix, G0027, Temp.hippo, Iron tiger, Nazar, Sig37",CN,,"Espionage, Information theft and espionage",2010.0
+APT10,"apt 10, Cloud hopper, G0045, Red apollo, Menupass team, Cvnx, Happyyongzi, Atk41, Bronze riverside, Stone panda, Granite taurus, Potassium, Hogfish",CN,China,Espionage,
+Hellsing,,CN,China,Espionage,
+Night Dragon,G0014,CN,,Information theft and espionage,2009.0
+APT15,"Bronze palace, G0004, Royal apt, Vixen panda, Operation “miragefox”, Playful dragon, Flea, Apt 15, Nickel, Operation “ke3chang”, Ke3chang, Bronze idlewood, Nylon typhoon, Bronze davenport, Red vulture, Gref, Metushy, Lurid, Ctg-9246, Social network team, Playful taurus",CN,China. State-sponsored,"Espionage, Information theft and espionage",2010.0
+APT14,"Qazteam, Aluminum, Apt 14, Anchor panda",CN,"China. State-sponsored, PLA Navy","Espionage, Information theft and espionage",2012.0
+APT21,"Temp.zhenbao, Nettraveler, Apt 21",CN,China,"Espionage, Information theft and espionage",2004.0
+DAGGER PANDA,"Red wendigo, Pla unit 69010, Atk 23, Trident, Icefog, Temp.trident, Dagger panda, Redfoxtrot",CN,"China. State-sponsored. State-sponsored, PLA Unit 69010","Espionage, Information theft and espionage",2014.0
+APT24,"Temp.pittytiger, G0011, Pittytiger, Operation “the eye of the tiger”, Pitty panda",CN,,Information theft and espionage,2011.0
+Roaming Tiger,"Rotten tomato, Bronze woodland, Ctg-7273",,,Information theft and espionage,2014.0
+Beijing Group,"Atk 2, Temp.avengers, Sneaky panda, Deputy dog, Apt 17, Sig22, Operation “rat cook”, Tailgater team, Tg-8153, Operation “ephemeral hydra”, Operation aurora, Elderwood, G0066, Bronze keystone, Elderwood gang, Operation “deputydog”, Dogfish",CN,"China. State-sponsored, Jinan bureau of the Chinese Ministry of State Security","Espionage, Information theft and espionage",2009.0
+RADIO PANDA,Shrouded crossbow,CN,,,
+APT.3102,,CN,,,
+SAMURAI PANDA,"Wisp team, Pla navy",CN,"China. State-sponsored, PLA Navy","Espionage, Information theft and espionage",2009.0
+IMPERSONATING PANDA,,CN,,,
+APT20,"Apt 20, Violin panda, Th3bug, Operation “wocao”, Apt 8, Crawling taurus",CN,,Information theft and espionage,2014.0
+TOXIC PANDA,,CN,,,
+TEMPER PANDA,"Admin338, Temper panda, G0018, Admin@338, Magnesium, Team338",CN,China,"Espionage, Information theft and espionage",2014.0
+APT23,"operation tropic trooper, Keyboy, Bronze hobart, Iron, G0081, Apt 23, Tropic trooper, Pirate panda, Earth centaur, Red orthrus, Operation “tropic trooper”",CN,State-sponsored,Information theft and espionage,2011.0
+Flying Kitten,"Saffronrose, Saffron rose, Ajax security team, Sayad, Operation “saffron rose”, Group 26, Ajaxsecurityteam",IR,Iran (Islamic Republic of). State-sponsored,"Espionage, Information theft and espionage",2010.0
+Cutting Kitten,Itsecteam,IR,Iran (Islamic Republic of),Denial of service,
+Charming Kitten,"Parastoo, G0058, Newscaster, Ikittens, Group 83, Newsbeef",IR,Iran (Islamic Republic of),Espionage,
+APT33,"Holmium, Peach sandstorm, Atk 35, G0064, Atk35, Ta451, Elfin, Cobalt trinity, Magnallium, Refined kitten, Apt 33",IR,Iran (Islamic Republic of). State-sponsored,"Espionage, Sabotage and destruction, Information theft and espionage",2013.0
+Magic Kitten,"Group 42, Voyeur",IR,State-sponsored,Information theft and espionage,2007.0
+Rocket Kitten,"Parastoo, Thamar reservoir, Temp.beanie, Timberworm, Newscaster, Group 83, Operation “woolen-goldfish”, Operation woolen goldfish, Operation “newscaster”, Newsbeef, Operation woolen-goldfish",IR,Iran (Islamic Republic of). State-sponsored,"Espionage, Information theft and espionage",2011.0
+Cleaver,"Tarh andishan, Cobalt gypsy, Operation “cleaver”, G0003, Tg-2889, Op cleaver, Operation cleaver, Alibaba",IR,"Iran (Islamic Republic of). State-sponsored, security company ITSecTeam","Espionage, Information theft and espionage",2012.0
+Sands Casino,,IR,,,
+Rebel Jackal,Fallagateam,TN,,,
+Viking Jackal,Vikingdom,AE,,,
+APT28,"apt-28, Fighting ursa, Iron twilight, Atk5, Sig40, Forest blizzard, Blue athena, Operation “dear joohn”, Ta422, Bluedelta, Operation “pawn storm”, Strontium, Operation “russian doll”, Tag-0700, Itg05, Atk 5, Grizzly steppe, Tg-4127, Tsar team, Pawn storm, Fancy bear, T-apt-12, Frozenlake, Apt-c-20, Operation “komplex”, Snakemackerel, Apt 28, Operation “dealerschoice”, Group 74, Uac-0028, Sofacy, G0007, Swallowtail, Sednit, Grey-cloud",RU,"Russian Federation. State-sponsored, two GRU units known as Unit 26165 and Unit 74455","Espionage, Information theft and espionage",2004.0
+APT29,"cozyduke, Operation “ghost”, Ta421, Cozy bear, Cloaked ursa, Operation “office monkeys”, Iron hemlock, Apt 29, Minidionis, Itg11, Dark halo, Nobelium, Grizzly steppe, Cloudlook, Iron ritual, Yttrium, Bluebravo, Atk7, Solarstorm, The dukes, Operation “stellarparticle”, Blue kitsune, Atk 7, G0016, Midnight blizzard, Group 100, Stellarparticle, Seaduke, UNC2452",RU,Russian Federation. State-sponsored,"Espionage, Information theft and espionage",2008.0
+Turla,"Summit, Krypton, Uroburos, Snake, Itg12, Operation “turla mosquito”, Operation “penguin turla”, Operation “witchcoven”, Venomous bear, Atk 13, Blue python, Sig15, Operation “satellite turla”, Makersmark, Sig23, Atk13, Iron hunter, G0010, Operation “skipper turla”, Hippo team, Tag-0530, Unc4210, Wraith, Secret blizzard, Tag_0530, Group 88, Waterbug, Pacifier apt, pacifier, Pfinet, Sig2, Ctg-8875, Popeye, Operation “epic turla”, Belugasturgeon, Operation “moonlight maze”",RU,Russian Federation. State-sponsored,"Espionage, Information theft and espionage",1996.0
+ENERGETIC BEAR,"Crouching yeti, Tg-4192, Energetic bear, Dymalloy, Iron liberty, Itg15, Dragonfly, Group 24, Blue kraken, Koala team, Castle, Ghost blizzard, Atk 6, Atk6, Berserk bear, G0035, Electrum, Dragonfly 2.0, Havex, Palmetto fusion, Bromine, russian gru",RU,"Russian Federation. State-sponsored, GRU. State-sponsored, GRU","Espionage, Sabotage and destruction",2010.0
+Sandworm,"Electrum, Atk 14, Temp.noble, Be2, Uac-0082, Seashell blizzard, G0034, Voodoo bear, Telebots, Frozenbarents, Iron viking, Sandworm team, Ctg-7263, Quedagh, Uac-0113, Blue echidna",RU,"Russian Federation. State-sponsored, GRU. State-sponsored, GRU","Espionage, Sabotage and destruction",2015.0
+FIN7,"carbanak gang, Apt-c-11, Calcium, G0008, Atk32, Tag-cr1, Sangria tempest, Atk 32, Carbanak, Carbon spider, Coreid, Anunak, Gold niagara, Elbrus, Navigator, Itg14, G0046",RU,,"Financial gain, Financial crime",2013.0
+TeamSpy Crew,"Sig39, Teamspy, Team bear, Anger bear, Iron lyric",RU,Russian Federation,"Espionage, Information theft and espionage",2010.0
+BuhTrap,"Uac-0008, Ratopak spider, Operation “twobee”",RU,,Financial crime,2015.0
+WOLF SPIDER,"G0085, Fin4, Wolf spider",RO,,Financial crime,2013.0
+Boulder Bear,,RU,,,
+SHARK SPIDER,,RU,,Financial crime,2011.0
+UNION SPIDER,,RU,,,
+Silent Chollima,"Operationtroy, Guardian of peace, Whois team, Gop, Subgroup: andariel, Andariel",KP,,,
+Lazarus Group,"Lazarus, Stonefly, Operation “blacksheep”/phase 3., Subgroup: bluenoroff, Gods disciples, Diamond sleet, Whois hacking team, Labyrinth chollima, Operation “initroy”/phase 1, Operation “applejeus”, Operation applejeus, Apt-c-26, Operation “ghostsecret”, Plutonium, Operation ghostsecret, Operation “blockbuster”: breach of sony pictures entertainment, Operation “goldenaxe”, Newromanic cyber army team, Ta404, Operation “blackmine”, Operation “desertwolf”/phase 3, Guardians of peace, Unc4034, Bureau 121, Unit 121, Itg03, Apt 38, Hastati group, Operation “initroy”/phase 2, Operation “lolzarus”, Ctg-2460, Gods apostles, Operation “applejeus sequel”, Zinc, Nickel gladstone, Operation “mayday”, Operation “north star”, Atk 3, Operation “ghostrat”, Operation “troy”, Operation “dream job”, Hidden cobra, Bluenoroff, Operation “xeda”, Appleworm, Unc2970, Operation “vanxatm”, Atk3, Operation “sharpshooter”, Operation “no pineapple!”, G0032, Operation “cryptocore”, Black artemis, Dark seoul, Operation troy, Onyx sleet, Sectora01, Operation “flame”, Andariel, Unc577, G0082, Operation “ten days of rain” / ”darkseoul”, Atk117, Unc4899, Apt38, Operation “in(ter)caption”, Operation darkseoul, darkseoul, Dev-0139, Nickel academy, Covellite, Jade sleet, Group 77",KP,"Korea (Democratic People's Republic of). State-sponsored, Bureau/Unit 211","Information theft and espionage, Espionage, Sabotage and destruction, Sabotage, Financial crime",2014.0
+VICEROY TIGER,"Apt-c-35, Operation hangover, hangover, Donot team, donot, Orange kala, Sectore02",IN,,Information theft and espionage,2016.0
+PIZZO SPIDER,"Dd4bc, Ambiorx",US,,,
+Corsair Jackal,Tunisiancyberarmy,TN,,,
+SNOWGLOBE,"Atk 8, Sig20, Atk8, Animal farm, Snowglobe",FR,France. State-sponsored,"Espionage, Information theft and espionage",2011.0
+Deadeye Jackal,"Tag-ct2, Atk 196, Syria malware team, Syrianelectronicarmy, Sea, Syrian electronic army",SY,,Information theft and espionage,2011.0
+Operation C-Major,"Temp.lapis, Copper fieldstone, Steppy-kavach, Operation “transparent tribe”, Transparent tribe, operation transparent tribe, Projectm, Green havildar, Apt36, Apt 36, Earth karkaddan, Mythic leopard, Tmp.lapis, Operation “c-major”, C-major, Operation “honey trap”",PK,Pakistan,Information theft and espionage,2013.0
+Stealth Falcon,"Fruityarmor, G0038, Project raven",AE,United Arab Emirates,"Espionage, Information theft and espionage",2012.0
+HummingBad,,CN,,,
+QUILTED TIGER,"Zinc emerson, Atk 11, Monsoon, Orange athos, Quilted tiger, Patchwork, Sarit, Tg-4410, Chinastrats, Atk11, Neon, Apt-c-09, G0040, Thirsty gemini, Dropping elephant",IN,India,"Espionage, Information theft and espionage",2013.0
+Scarlet Mimic,"Golfing taurus, G0029",CN,,Information theft and espionage,2015.0
+Poseidon Group,G0033,BR,,Information theft and espionage,2005.0
+DragonOK,"G0017, G0002, Shallow taurus, Moafee, Bronze overbrook",CN,China,"Espionage, Information theft and espionage",2014.0
+ProjectSauron,"Strider, Project sauron, Sauron, G0041",US,United States,"Espionage, Information theft and espionage",2011.0
+TA530,,CN,,Financial crime,2016.0
+GCMAN,G0036,RU,,Financial crime,2016.0
+APT22,"G0039, Suckfly, Group 46, Bronze olive",CN,,Information theft and espionage,2014.0
+FIN6,"Tag-cr2, Gold franklin, Itg08, Skeleton spider, Atk88, Taal, Camouflage tempest, Magecart group 6, White giant, G0037, Atk 88",,,"Financial gain, Financial crime",2015.0
+Libyan Scorpions,,LY,,Information theft and espionage,2015.0
+TeamXRat,"Corporacaoxrat, Corporationxrat",,,,
+OilRig,"Crambus, Evasive serpens, Cobalt gypsy, Helix kitten, Apt 34, G0049, Twisted kitten, Irn2, Atk40, Apt34",IR,Iran (Islamic Republic of),Espionage,
+Volatile Cedar,"Defttorero, Lebanese cedar",LB,"State-sponsored, Hezbollah",Information theft and espionage,2012.0
+TERBIUM,,,,Sabotage and destruction,2012.0
+Molerats,"dustysky, Operation “tophat”, Operation “dustysky” part 2, Tag-ct5, Operation molerats, Gaza hackers team, Operation “moonlight”, Operation “dustysky”, Moonlight, Aluminum saratoga, Extreme jackal, G0021, Operation “sneakypastes”, Atk 89, Gaza cybergang, Operation “molerats”",PS,Hamas,Information theft and espionage,2012.0
+PROMETHIUM,"Promethium, Apt-c-41, Strongpity, G0056",TR,,Information theft and espionage,2012.0
+NEODYMIUM,G0055,,,Information theft and espionage,2016.0
+Packrat,,,,Information theft and espionage,2008.0
+Cadelle,,IR,State-sponsored,Information theft and espionage,2011.0
+PassCV,,CN,State-sponsored,Information theft and espionage,2016.0
+Sath-ı Müdafaa,,TR,,,
+Aslan Neferler Tim,"Lion soldiers team, Phantom turk",TR,,,
+Ayyıldız Tim,Crescent and star,TR,,,
+TurkHackTeam,Turk hack team,TR,,,
+Equation Group,"Platinum colony, Tilded team, G0020, Eqgrp",US,"United States. State-sponsored, believed to be tied to the NSA’s Tailored Access Operations unit","Espionage, Sabotage and destruction, Information theft and espionage",2001.0
+Gamaredon Group,"Actinium, Winterflounder, Primitive bear, Armageddon, Uac-0010, Iron tilden, Aqua blizzard, Blue otso, Sectorc08, G0047, Bluealpha, Trident ursa, Dev-0157, Shuckworm",RU,"State-sponsored, FSB 16th & 18th Centers",Information theft and espionage,2013.0
+Infy,"Foudre, Apt-c-07, Operation mermaid, Prince of persia",IR,Iran (Islamic Republic of). State-sponsored,"Espionage, Information theft and espionage",2007.0
+Sima,,IR,,Information theft and espionage,2016.0
+Blue Termite,"blue termit, Cloudy omega, Emdivi",CN,,"Espionage, Information theft and espionage",2013.0
+Groundbait,,UA,,,
+Longhorn,"Platinum terminal, Apt-c-39, Lamberts, The lamberts",US,"United States. State-sponsored, CIA","Espionage, Information theft and espionage",2009.0
+Callisto,"Bluecharlie, Star blizzard, Gossamer bear, Coldriver, Ta446, Seaborgium",RU,,,
+APT32,"Ocean lotus, Operation “cobalt kitty”, Ocean buffalo, Sea lotus, Oceanlotus, Tin woodlawn, Oceanlotus group, Apt 32, Atk 17, Canvas cyclone, Sectorf01, Operation “phantomlance”, Bismuth, Apt-32, Cobalt kitty, Sealotus, G0050, Atk17, Pond loach, Apt-c-00",VN,Vietnam. State-sponsored,"Espionage, Financial gain, Information theft and espionage",2012.0
+SilverTerrier,,NG,,,
+WildNeutron,"Morpho, Butterfly, Sphinx moth, Wild neutron, The postal group",,,Information theft and espionage,2013.0
+PLATINUM,"Atk33, Operation “easternroppels”, Atk 33, G0068, Twoforone",,,Information theft and espionage,2009.0
+RASPITE,"Leafminer, Raspite",,,Information theft and espionage,2017.0
+FIN8,"Atk 113, Syssphinx, Atk113, G0061",,,Financial crime,2016.0
+El Machete,"G0095, Atk 97, Temp.andromeda, Apt-c-43, Operation “hpreact”, Machete, Machete-apt, Tag-ns1",,,"Espionage, Information theft and espionage",2010.0
+Cobalt,"Cobalt group, Cobalt gang, Mule libra, Cobalt spider, Tag-cr3, G0080, Atk 67, Gold kingswood",,,Financial crime,2016.0
+TA459,G0062,CN,,Information theft and espionage,2017.0
+Cyber Berkut,"Kiberberkut, cyberberkut",RU,,"Sabotage and destruction, Information theft and espionage",2014.0
+Tonto Team,"Copper, Karma panda, Hartbeat, Loneranger, Bronze huntley, G0131, Heartbeat, Operation “bitter biscuit”, Red beifang, Pla unit 65017, Cactuspete",CN,"China. State-sponsored, Shenyang Military Region Technical Reconnaissance Bureau, possibly Unit 65017",Information theft and espionage,2009.0
+APT5,"Mulberry typhoon, Poisoned flight, Keyhole panda, Bronze fleetwood, Tg-2754, Temp.bottle, Manganese, Apt 5",,,Information theft and espionage,2007.0
+Tick,"Pla unit 61419, Redbaldnight, G0060, Stalker panda, Redbaldknight, Temp.tick, Ctg-2006, Nian, Stalker taurus, Operation “endtrade”",CN,"China. State-sponsored, National University of Defense and Technology","Espionage, Information theft and espionage",2006.0
+APT26,"Turbine panda, Hippo team, Webmasters, Shell crew, Black vine, Kungfu kittens, Group 13, Technetium, Apt 26, Pinkpanther, Bronze express, Jerseymikes",CN,"State-sponsored, the Jiangsu Bureau of the MSS (JSSD/江苏省国家安全厅)","Financial crime, Information theft and espionage",2010.0
+SABRE PANDA,,CN,,,
+BIG PANDA,,CN,,,
+POISONUS PANDA,,CN,,,
+TEMP.Hermit,,KP,,,
+Mofang,"Bronze walker, Superman",CN,China,Espionage,
+CopyKittens,"Slayer kitten, G0052, Operation “wilted tulip”",IR,Iran (Islamic Republic of),"Espionage, Information theft and espionage",2013.0
+TEST PANDA,,CN,,,
+Madi,Mahdi,IR,Iran (Islamic Republic of),"Espionage, Information theft and espionage",2011.0
+ELECTRIC PANDA,,CN,,,
+APT4,"Maverick panda, Bronze edison, Wisp team, Pla navy, Tg-0623, Sykipot, Apt 4",CN,"China. State-sponsored, PLA Navy","Espionage, Information theft and espionage",2007.0
+Kimsuky,"Thallium, Apt43, Black banshee, Sharptongue, Operation stolen pencil, Velvet chollima, Operation “smoke screen”, Archipelago, Operation “stolen pencil”, Emerald sleet, Operation “mystery baby”, Itg16, Operation “stealth power”, Operation “baby coin”, Operation “kabar cobra”, Operation “red salt”, Apt 43, G0086",KP,Korea (Democratic People's Republic of). State-sponsored,"Espionage, Information theft and espionage",2012.0
+Snake Wine,,,,Information theft and espionage,2016.0
+Careto,"The mask, Ugly face, Mask",ES,Spain. State-sponsored,"Espionage, Information theft and espionage",2007.0
+GIBBERISH PANDA,,CN,,,
+OnionDog,,KP,,"Espionage, Information theft and espionage",2013.0
+Clever Kitten,Group 41,IR,,Information theft and espionage,2013.0
+ANDROMEDA SPIDER,,,,Financial gain,2011.0
+Cyber Caliphate Army,"United cyber caliphate, Cca, Uuc, Cybercaliphate, Islamic state hacking division, cyber caliphate",,,,
+MAGNETIC SPIDER,,RU,,,
+Cyber fighters of Izz Ad-Din Al Qassam,"Qcf, Qassam cyber fighters, Fraternal jackal",IR,State-sponsored,Sabotage and destruction,2012.0
+APT6,"1.noname05716, php Group, noname05716",CN,,,
+AridViper,"Apt-c-23, Arid viper, Desert falcon, c-23",PS,,,
+Unit 8200,"duqu, Duqu group",IL,Israel,Espionage,
+White Bear,Skipper turla,RU,Russian Federation,Espionage,
+PALE PANDA,,CN,,,
+Mana Team,,CN,,,
+Sowbug,G0054,,,"Espionage, Information theft and espionage",2015.0
+MuddyWater,"Operation “blackwater”, Mercury, Mango sandstorm, Static kitten, Seedworm, Ta450, Atk 51, Operation “quicksand”, Atk51, G0069, T-apt-14, Itg17, Boggy serpens, Operation “earth vetala”, Cobalt ulster, Temp.zagros, ent-11",IR,"Iran (Islamic Republic of). State-sponsored, IRGC (Islamic Republic Guard Corps)","Espionage, Information theft and espionage",2017.0
+MoneyTaker,,,,Financial crime,2016.0
+Dark Caracal,"Operation “dark caracal”, G0070, Tag-ct3, Atk 27",LB,"State-sponsored, General Directorate of General Security (GDGS)",Information theft and espionage,2007.0
+APT37,"Operation “dragon messenger”, Operation “spy cloud”, Operation “korean sword”, Cerium, Operation “north korean human right”, Atk4, Temp.reaper, Apt 37, Operation “fractured block”, Operation “stiff#bizon”, Geumseong121, Operation “stark#mule”, Reaper group, Reaper, Hermit, Operation “black banner”, Operation “evil new year 2018”, Group123, Operation “holiday wiper”, Group 123, Operation “high expert”, Itg10, Operation “daybreak”, Venus 121, G0067, Operation erebus, Operation “onezero”, Operation “fractured statue”, Operation “battle cruiser”, Scarcruft, scarcurf, Operation “evil new year”, Inkysquid, Red eyes, Operation daybreak, Operation “freemilk”, Operation “golden time”, Operation “are you happy?”, Operation “golden bird”, Ricochet chollima, Atk 4, Ruby sleet, Operation “rocket man”, Operation “erebus”, Operation “star cruiser”, Moldy pisces, konni",KP,Korea (Democratic People's Republic of). State-sponsored,Information theft and espionage,2012.0
+APT40,"Mudcarp, Itg09, Islanddreams, Atk 29, Gingham typhoon, Ta423, Temp.jumper, G0065, Bronze mohawk, Temp.periscope, Gadolinium, Leviathan, Red ladon, Kryptonite panda, Apt 40, Atk29",CN,"China. State-sponsored, Ministry of State Security, Hainan province","Espionage, Information theft and espionage",2013.0
+APT35,"Educated manticore, Apt 35, Tarh andishan, Operation “badblood”, Cobalt mirage, Yellow garuda, Operation “thamar reservoir”, Magic hound, Phosphorus, Timberworm, Unc788, Cobalt illusion, G0059, Temp.beanie, Tunnelvision, Operation “spoofedscholars”, Newscaster team, Mint sandstorm",IR,"State-sponsored, Islamic Revolutionary Guard Corps (IRGC)",Information theft and espionage,2012.0
+Orangeworm,,,,Information theft and espionage,2015.0
+CHRYSENE,"Crambus, Cobalt gypsy, Itg13, Helix kitten, Apt 34, Chrysene, Greenbug, Volatile kitten, Ta452, Atk 40, Twisted kitten, Europium, Irn2, Hazel sandstorm",IR,State-sponsored,"Espionage, Information theft and espionage",2016.0
+ZooPark,"Tg-2884, Saber lion, Apt-c-38",,,Information theft and espionage,2015.0
+RANCOR,"Rancor group, Rancor taurus, G0075, Rancor",CN,China,"Espionage, Information theft and espionage",2017.0
+The Big Bang,,,,Information theft and espionage,2017.0
+The Gorgon Group,"Tag-cr5, G0078, Pasty gemini, Atk 92, Subaat, Gorgon group, Atk92",PK,State-sponsored,Information theft and espionage,2017.0
+DarkHydrus,"Obscure serpens, Lazymeerkat, Atk 77, G0079",,State-sponsored,Information theft and espionage,2016.0
+RedAlpha,"Deepcliff, Red dev 3",,"State-sponsored, possibly PLA and/or Nanjing Qinglan Information Technology Co. Ltd",Information theft and espionage,2015.0
+TempTick,,CN,China,,
+Operation Parliament,,,,"Espionage, Information theft and espionage",2017.0
+Inception Framework,"Blue odin, Operation “cloud atlas”, The rocra, G0100, Oxygen, Cloud atlas, Atk116, Clean ursa, Operation “redoctober”, redoctober, Atk 116",RU,Russian Federation,"Espionage, Information theft and espionage",2012.0
+HenBox,,CN,China,Espionage,
+MUSTANG PANDA,"Temp.hex, Operation “smugx”, Earth preta, Honeymyte, Basin, Mustang panda, Bronze president, Red lich",CN,China. State-sponsored,"Espionage, Information theft and espionage",2012.0
+Thrip,"lotus blossom, G0076, Dragonfish, Atk 78, Atk78, Ctg-8171, Operation “lotus blossom”, Billbug, Atk 1, Bronze elgin",CN,State-sponsored,"Espionage, Information theft and espionage",2012.0
+Stealth Mango and Tangelo ,,PK,,,
+PowerPool,Iamtheking,,,Information theft and espionage,2018.0
+Bahamut,,,,Information theft and espionage,2016.0
+Operation BugDrop,,RU,Russian Federation,"Espionage, Information theft and espionage",2016.0
+Unnamed Actor,,CN,China,Espionage,
+Domestic Kitten,Apt-c-50,,State-sponsored,Information theft and espionage,2016.0
+Roaming Mantis,"Roaming mantis group, Shaoye",,,Financial crime,2017.0
+The Shadow Brokers,"Tsb, Shadow brokers, The shadowbrokers, Shadowbrokers",,,Financial gain,2016.0
+EvilTraffic,Operation eviltraffic,,,,
+INDRIK SPIDER,"Dev-0243, Manatee tempest, Gold drake, Unc2165",RU,,"Financial gain, Financial crime",2007.0
+DNSpionage,Cobalt edgewater,,State-sponsored,Information theft and espionage,2019.0
+Operation Poison Needles,,,,Information theft and espionage,2018.0
+GC01,"Golden chickens01, Golden chickens, Golden chickens 01",,,,
+GC02,"Golden chickens 02, Golden chickens, Golden chickens02",,,,
+TA505,"Hive0065, G0092, Atk103, Chimborazo, Sectorj04, Graceful spider, Sectorj04 group, Dudear, Gold tahoe, trickbot",RU,,,
+WIZARD SPIDER,"conti, Wizard spider, Gold blackburn, Temp.mixmaster, Periwinkle tempest, Operation “bazaflix”, Dev-0193, Itg23, Fin12",RU,,"Financial gain, Financial crime",2014.0
+MUMMY SPIDER,"Atk 104, Mummy spider, Gold crestwood, Ta542, Mealybug",,,Financial crime,2014.0
+STARDUST CHOLLIMA,"Bluenoroff, Atk 117, Apt 38, Stardust chollima, T-apt-15, Nickel gladstone, Ctg-6459, Sapphire sleet, Black alicanto, Copernicium, Tag-71",KP,,Financial crime,2014.0
+Cold River,"Calisto, Bluecharlie, Star blizzard, Nahr el bared, Cobalt edgewater, Nahr elbard, Ta446, Seaborgium, Blue callisto",,,Information theft and espionage,2019.0
+Silence group,"Tag-cr8, Atk 86, Contract crew, Temp.truthteller, Whisper spider, Silence",,,Financial crime,2016.0
+APT39,"Apt 39, G0087, Cobalt hickman, Ta454, Radio serpens, Itg07, Remix kitten, Chafer",IR,"State-sponsored, Rana Intelligence Computing Company",Information theft and espionage,2014.0
+Siesta,,,,Information theft and espionage,2014.0
+Gallmaker,,,,Information theft and espionage,2017.0
+BOSS SPIDER,"Ctg-0007, Gold lowell, Boss spider",,,Financial gain,2015.0
+GURU SPIDER,,,,Financial gain,2014.0
+SALTY SPIDER,,,,Financial gain,2003.0
+TINY SPIDER,,,,Financial crime,2015.0
+LUNAR SPIDER,Gold swathmore,,,Financial crime,2019.0
+APT-C-36,"Blind eagle, apt-36",,,Information theft and espionage,2018.0
+IRIDIUM,,IR,,Information theft and espionage,2018.0
+SandCat,,UZ,"State-sponsored, Military Unit 02616",Information theft and espionage,2018.0
+Operation Comando,,,,Financial crime,2018.0
+APT-C-27,"Golden rat, Goldmouse, Atk 80, Atk80",SY,Syrian Electronic Army,Information theft and espionage,2014.0
+Whitefly,"Bronze walker, Temp.mimic, Sectorm04, Atk 83, Superman",,,Information theft and espionage,2012.0
+Sea Turtle,"Teal kurma, Silicon, Marbled dust, Cosmic wolf, Unc1326",TR,,Information theft and espionage,2017.0
+Silent Librarian,"Cobalt dickens, Ta407, Yellow nabu, Mabna institute, Ta4900",IR,"State-sponsored, Islamic Revolutionary Guard Corps",Information theft and espionage,2013.0
+APT31,"Red keres, Zirconium, Ta412, Bronze vinewood, Apt 31, Redbravo, Judgment panda, Violet typhoon",CN,"State-sponsored, Ministry of State Security",Information theft and espionage,2016.0
+Blackgear,"Topgear, Comnie",CN,,Information theft and espionage,2018.0
+BlackOasis,G0063,,,Information theft and espionage,2015.0
+BlackTech,"G0098, Operation “waterbear”, Operation “shrouded crossbow”, operation shrouded crossbow, Manga taurus, Huapi, Circuit panda, Operation “plead”, T-apt-03, Red djinn, Palmerworm, Temp.overboard",CN,State-sponsored,Information theft and espionage,2010.0
+FIN5,G0053,,,Financial crime,2008.0
+FIN1,,RU,,,
+FIN10,G0051,,,Financial crime,2016.0
+GhostNet,Snooping dragon,,"State-sponsored, PLA Unit 61398",Information theft and espionage,2009.0
+Group5,G0043,,State-sponsored,Information theft and espionage,2015.0
+Honeybee,G0072,,,Information theft and espionage,2017.0
+Lucky Cat,"White dev 9, Ta413",,,Information theft and espionage,2019.0
+RTM,G0048,,,Financial crime,2015.0
+Shadow Network,,,,Information theft and espionage,2010.0
+Slingshot,,,,Information theft and espionage,2012.0
+Taidoor,"G0015, Budminer cyberespionage group, Budminer, Earth aughisky",CN,,Information theft and espionage,2008.0
+TEMP.Veles,"Xenotime, Atk91, Atk 91, G0088",,"State-sponsored, Central Scientific Research Institute of Chemistry and Mechanics",Sabotage and destruction,2014.0
+WindShift,Windy phoenix,,,Information theft and espionage,2018.0
+[Unnamed group],Unnamed group,,,,
+DUNGEON SPIDER,,,,Financial gain,2016.0
+Fxmsp,"Atk 134, Tag-cr17",,,Financial gain,2016.0
+Gnosticplayers,,,,Financial gain,2019.0
+Hacking Team,,,,Financial gain,2003.0
+OurMine,"Atk 128, Tag-ha10",,,Financial gain,2016.0
+Pacha Group,,,,Financial gain,2018.0
+Rocke,"Aged libra, Iron cyber group, Iron Group",,,Financial gain,2018.0
+[Vault 7/8],Vault 7/8,,,Financial gain,2017.0
+ZOMBIE SPIDER,,,,Financial gain,2010.0
+SWEED,,,,Information theft and espionage,2017.0
+TA428,"Operation “stealthytrident”, Bronze dudley, Panda, Colourful panda, Thundercats, Operation “lagtime it”",CN,,Information theft and espionage,2013.0
+LYCEUM,"Atk 120, Spirlin, Cobalt lyceum, Hexane, Operation “out to sea”, Siamesekitten, Lyceum",IR,,Information theft and espionage,2017.0
+APT41,"earth longzhi, Snakecharmer, G0096, Lead, G0044, Apt 22, Amoeba, Bronze olive, Wicked panda, Winnti group, winnti, Earth baku, Brass typhoon, Hoodoo, Blackfly, Bronze atlas, Casper, Barium, Tg-3279, Wicked spider, Pigfish, Ta415, Red kelpie, Bronze export, Grayfly, sparklinggoblin",CN,People's Republic of China. State-sponsored. State-sponsored. State-sponsored,"Financial crime, Information theft and espionage",2010.0
+Tortoiseshell,"Ta456, Marcella flores, Yellow liderc, Curium, Imperial kitten, Houseblend, Crimson sandstorm, Operation “fata morgana”",IR,State-sponsored,Information theft and espionage,2018.0
+POISON CARP,"Red dev 16, Evil eye, Earth empusa, Poison carp",,,Information theft and espionage,2018.0
+TA410,"Witchetty, Lookingfrog",CN,,Information theft and espionage,2019.0
+Operation WizardOpium,,,,Information theft and espionage,2019.0
+Calypso,Bronze medley,CN,,Information theft and espionage,2016.0
+TA2101,"Twisted spider, Maze team",,,"Financial gain, Financial crime",2019.0
+APT-C-34,"Nomadic octopus, Golden falcon",,,Information theft and espionage,2014.0
+RAZOR TIGER,"Groupa21, Razor tiger, Hardcore nationalist, Apt-q-39, Hn2, Rattlesnake, Apt-c-17, Sidewinder, T-apt-04",,,Information theft and espionage,2012.0
+Attor,,,,Espionage,
+APT-C-12,"Nuclearcrisis, Blue mushroom, Sapphire mushroom",,,Espionage,
+InvisiMole,Uac-0035,,,"Espionage, Information theft and espionage",2013.0
+ANTHROPOID SPIDER,"Cobaltgoblin, Empire monkey, Anthropoid spider",,,Financial crime,2018.0
+DOPPEL SPIDER,Grief group,,,Financial gain,2019.0
+MONTY SPIDER,,,,Financial gain,2012.0
+NARWHAL SPIDER,"Ta544, Gold essex",,,Financial gain,2007.0
+SMOKY SPIDER,,,,Financial gain,2011.0
+VENOM SPIDER,"Venom spider, Badbullzvenom, Golden chickens, Badbullz",,,Financial gain,2017.0
+ItaDuke,"Darkuniverse, Sig27",,,Information theft and espionage,2017.0
+Higaisa,,KR,Korea (Republic of),,
+COBALT JUNO,"Saber lion, Apt-c-38 (qianxin), Tg-2884 (scwx ctu)",,,,
+COBALT KATANA,"Sectord01 (nhsc), Hive0081 (ibm), Hunter serpens, Xhunt campaign (palo alto)",,,,
+Dark Basin,Mercenary.amanda,,BellTroX InfoTech Services,Information theft and espionage,2013.0
+GALLIUM,"Red dev 4, Phantom panda, Alloy taurus, Granite typhoon",,,Information theft and espionage,2018.0
+Evilnum,"Deathstalker, Deceptikons, Ta4563, Operation “phantom in the command shell”, Jointworm",,,Information theft and espionage,2018.0
+Fox Kitten,"Pioneer kitten, Unc757, Cobalt foxglove, Parisite, Rubidium, Lemon sandstorm",IR,,Information theft and espionage,2017.0
+XDSpy,,,,Information theft and espionage,2011.0
+Evil Corp,Gold drake,,,,
+TRACER KITTEN,,IR,,Information theft and espionage,2020.0
+FIN11,"Temp.warlock, Unc902, Lace tempest, Operation “cyclone”",,,"Financial gain, Financial crime",2016.0
+UNC1878,,,,Financial gain,2020.0
+TeamTNT,Adept libra,,,,
+HAFNIUM,"G0125, Operation exchange marauder, Red dev 13, Silk typhoon, Atk233, hafnuim",CN,"State-sponsored, Ministry of State Security",Information theft and espionage,2021.0
+RedEcho,,,State-sponsored,Information theft and espionage,2020.0
+Ghostwriter,"Pushcha, Unc1151, Ta445, ghostwriters",BY,Belarus,,
+Yanbian Gang,,,,Financial crime,2013.0
+TRAVELING SPIDER,,,,Financial gain,2019.0
+MALLARD SPIDER,,,,"Financial gain, Financial crime",2008.0
+RIDDLE SPIDER,Avaddon team,,,Financial gain,2020.0
+GOLD DUPONT,"Gold dupont, Sprite spider",,,"Financial gain, Financial crime",2015.0
+VIKING SPIDER,,,,Financial gain,2019.0
+CIRCUS SPIDER,,RU,,Financial gain,2019.0
+GOLD EVERGREEN,"Hive0065, Operation “tovar”, Gold evergreen, Chimborazo, Spandex tempest, Atk 103, Temp.warlock, Sectorj04, Graceful spider, Operation “trident breach”, Gold tahoe",,,"Financial gain, Financial crime",2006.0
+BAMBOO SPIDER,"Ta544, Bamboo spider",,,Financial crime,2016.0
+BOSON SPIDER,,,,Financial crime,2015.0
+GOLD BURLAP,Cyborg spider,,,,
+GOLD CABIN,"Ta551, Gold cabin, Shakthak, Shathak, G0127, Monster libra, Atk236",,,Financial gain,2016.0
+GOLD SOUTHFIELD,Gold southfield,,,Financial gain,2018.0
+BackdoorDiplomacy,"Backdip, Cloudcomputating, Quarian",,,Information theft and espionage,2017.0
+Gelsemium,"狼毒草, Operation “toohash”, Operation “nightscout”",CN,,Information theft and espionage,2014.0
+BelialDemon,Matanbuchus,,,,
+Common Raven,"Nxsms, Opera1er, Operation “nervone”, Desktop-group",,,Financial crime,2016.0
+FIN13,"Tg2003, Elephant beetle",RU,,"Financial gain, Financial crime",2016.0
+SideCopy,,PK,,Information theft and espionage,2019.0
+Antlion,,CN,,Information theft and espionage,2011.0
+TA2541,,,,Information theft and espionage,2017.0
+TA516,Smokingdro,,,"Financial gain, Financial crime",2016.0
+TA547,,,,"Financial gain, Financial crime",2017.0
+TA554,Th-163,,,Financial crime,2017.0
+TA555,,,,Financial crime,2018.0
+MosesStaff,"Cobalt sapling, Marigold sandstorm, Dev-0500, Moses staff, Abraham's ax",IR,,Sabotage and destruction,2021.0
+Avivore,,CN,,Information theft and espionage,2015.0
+HAZY TIGER,"Apt-c-08, Bitter, T-apt-17, Orange yali, bitter threat actor",IN,,Information theft and espionage,2013.0
+LAPSUS,"Lapsus$, Dev-0537, Slippy spider, Strawberry tempest",,,Financial gain,2021.0
+Scarab,,CN,,"Espionage, Information theft and espionage",2012.0
+BladeHawk,,,,Espionage,
+Copy-Paste,,,,Espionage,
+Killnet,,RU,,Denial of service,
+SaintBear,"Nodaria, Storm-0587, Ember bear, Lorec53, Uac-0056, Frozenvista, Nascent ursa, Unc2589, Ta471",RU,,Information theft and espionage,2021.0
+UNC3524,Cranefly,,,"Espionage, Information theft and espionage",2019.0
+Curious Gorge,Unc3742,CN,"State-sponsored, PLA SSF","Espionage, Information theft and espionage",2022.0
+Red Menshen,Red dev 18,CN,,,
+Cosmic Lynx,,,,Business Email Compromise,
+EXOTIC LILY,Dev-0413,,,,
+ToddyCat,Websiic,,,Information theft and espionage,2020.0
+POLONIUM,Plaid rain,LB,Lebanon,"Espionage, Information theft and espionage",2022.0
+Predatory Sparrow,"Gonjeshke darande, Indra",,,"Sabotage and destruction, Sabotage",2019.0
+DEV-0586,Ruinous ursa,,,Sabotage,
+Kinsing,Money libra,,,,
+Earth Berberoka,Gamblingpuppet,CN,,Information theft and espionage,2022.0
+Earth Lusca,"Red scylla, Tag-22, Fishmonger, Charcoal typhoon, Red dev 10, Aquatic panda, Bronze university, Controlx, Chromium, Redhotel",CN,State-sponsored,"Financial gain, Information theft and espionage",2021.0
+Earth Wendigo,,CN,,Information theft and espionage,2019.0
+BRONZE EDGEWOOD,Red hariasa,CN,,,
+APT9,"Nightshade panda, Flowershow, Operation “seven pointed dagger”, Flowerlady, Group 27, Red pegasus, Apt 9",CN,,Information theft and espionage,2013.0
+BRONZE SPRING,Unc302,CN,,,
+BRONZE STARLIGHT,"Cinnamon tempest, Operation chattygoblin, Slime34, Dev-0401",CN,,Information theft and espionage,2021.0
+BRONZE HIGHLAND, daggerfly,CN,,,
+BRONZE SPIRAL,,CN,,,
+BRONZE VAPOR,,CN,,,
+Vicious Panda,"Bronze dudley, Sixlittlemonkeys",CN,,Information theft and espionage,2015.0
+Red Nue,Luoyu,CN,,,
+Pickaxe,Prying libra,,,,
+Watchdog,Thief libra,,,,
+Returned Libra,8220 mining group,,,,
+TianWu,,CN,China,,
+SLIME29,,CN,China,,
+GOBLIN PANDA,"Conimes, Cycldek, Goblin panda",CN,China,Information theft and espionage,2013.0
+TA558,,,,Financial crime,2018.0
+PARINACOTA,Wine tempest,,,Financial gain,2018.0
+Red Dev 17,,CN,,,
+Aoqin Dragon,Unc94,CN,,Information theft and espionage,2013.0
+DangerousSavanna,,,,,
+NoName057(16),"05716nnm, Noname05716, Nnm05716, Noname057",,,Denial of service,
+Void Balaur,Rockethack,,,Financial gain,2017.0
+APT-C-60,Apt-q-12,,,,
+RomCom,"Tropical scorpius, Storm-0978, Dev-0978, romcom threat actor",RU,,"Financial gain, Information theft and espionage",2019.0
+GOLD PRELUDE,"Unc1543, Ta569",,,,
+BazarCall,"Bazzarcall, Bazacall",,,,
+Moskalvzapoe,"Ta511, Man1",,,Financial crime,2018.0
+TA570,Dev-0450,RU,,,
+TA577,Hive0118,RU,,,
+TA2536,,NG,,,
+DEV-0147,,CN,,,
+TA406,,KR,,,
+APT42,Unc788,IR,,,
+TA453,,IR,,,
+Chamelgang,,,,Information theft and espionage,2021.0
+Karakurt,Karakurt lair,,,"Financial gain, Extortion",2021.0
+DEV-0270,"Storm-0270, Nemesis kitten, Direfate",IR,,Financial gain,2022.0
+Prophet Spider,Unc961,,,,
+Anonymous Sudan,,,,Denial of service,
+RedGolf,Brass typhoon,CN,China. State-sponsored,Information theft and espionage,2014.0
+Hagga,"Aggah, Th-157",,,,
+Volt Typhoon,"Vanguard panda, Bronze silhouette",CN,State-sponsored,Information theft and espionage,2020.0
+RedDelta,"Ta416, Operation “dianxun”",,State-sponsored,Information theft and espionage,2020.0
+Worok,,CN,China,"Espionage, Information theft and espionage",2020.0
+MoustachedBouncer,,BY,Belarus,"Espionage, Information theft and espionage",2014.0
+Storm-0324,"Dev-0324, Sagrid, Ta543",,,,
+Scattered Canary,,NG,,,
+Scattered Spider,"0ktapus, Oktapus, Unc3944, Scatter swine, Muddled libra, Octo tempest, Scattered swine",,,"Financial gain, Information theft and espionage",2022.0
+Void Rabisu,Tropical scorpius,,,,
+Camaro Dragon,,CN,,,
+Storm-0558,,CN,,,
+Scarred Manticore,,IR,,,
+Xiaoqiying,"Teng snake, Genesis day",CN,,,
+Winter Vivern,"Ta473, Uac-0114",,,,
+UNC3886,,CN,,,
+Storm-0062,"Darkshadow, Oro0lxy",CN,,,
+Kasablanka,,MA,,,
+YoroTrooper,,KZ,,,
+RansomVC,Ransomed.vc,,,,
+UNC3890,,IR,,,
+RedStinger,Bad magic,,,,
+NB65,Network battalion 65,,,,
+IndigoZebra,,CN,,,
+GhostSec,Ghost security,,,,
+HiddenArt,,RU,,,
+REF2924,,CN,,,
+Storm-1133,,PS,,,
+TA499,"Vovan, Lexus",RU,,,
+SharpPanda,,CN,,,
+DustSquad,Nomadic octopus,RU,,,
+Cyber Av3ngers,,IR,,,
+Altahrea Team,,IQ,,,
+1937CN,,CN,,,
+IronHusky,,CN,,,
+UserSec,,RU,,,
+UAC-0094,,RU,,,
+TraderTraitor,"Jade sleet, Unc4899",KP,,,
+UNC2565,Hive0127,,,,
+Confucious,,IN,,,
+Dalbit,,CN,,,
+DiceyF,,CN,,,
+DEV-0950,Lace tempest,,,,
+WeRedEvils,,IL,,,
+WIRTE,,PS,,,
+Caracal Kitten,Apt-q-58,,,,
+TAG-56,,IR,,,
+TA482,,TR,,,
+XakNet,,RU,,,
+Zarya,,RU,,,
+Bohrium,,IR,,,
+MirrorFace,,CN,,,
+VulzSecTeam,Vulzsec,ID,,,
+Chernovite,,RU,,,
+MurenShark,Actor210426,,,,
+DriftingCloud,,CN,,,
+UNC4191,,CN,,,
+DragonSpark,,CN,,,
+AppMilad,,IR,,,
+UNC4841,,CN,,,
+TEMP_Heretic,,CN,,,
+TA444,,KP,,,
+DefrayX,Hive0091,,,,
+PerSwaysion,,VN,,,
+Webworm,Space pirates,CN,,,
+N4ughtysecTU,,BR,,,
+Moshen Dragon,,CN,,,
+TiltedTemple,Dev-0322,CN,,,
+OldGremlin,,RU,,,
+Storm Cloud,,CN,,,
+TA402,,PS,,,
+MalKamak,,IR,,,
+DragonForce,,MY,,,
+LightBasin,"Unc1945, Cl-cri-0025",,,,
+TunnelSnake,,CN,,,
+UNC2717,,CN,,,
+WIP19,,CN,,,
+UNC215,,CN,,,
+DEV-0569,Storm-0569,,,,
+UAC-0118,"Frwl, Fromrussiawithlove",,,,
+UNC2630,,CN,,,
+Sandman APT,sandman,CN,,,
+BiBiGun,,PS,,,
+Solntsepek,,RU,,,
+UNC4736,,KP,,,
+LookBack,,CN,,,
+FlowingFrog,,CN,,,
+Hammer Panda,,CN,,,
+Unit8200,,IL,,,
+Bronze Butler,,CN,,,
+Callisto Group,,RU,,,
+CardinalLizard,,CN,,,
+Chimera,,CN,,,
+Metel,,RU,,,
+Fishing Elephant,,IN,,,
+FunnyDream,,CN,,,
+leetMX,,MX,,,
+Lurk,,RU,,,
+Mikroceen,,CN,,,
+Wang Spur,,KP,,,
+Wirelurker,,CN,,,
+NineBlog,,CN,,,
+BugDrop,,RU,,,
+Fishmaster,,CN,,,
+Poison Needles,,UA,,,
+TG-8288,,IR,,,
+TG-6529,,UA,,,
+TG-0919,,AE,,,
+Red Signature,,CN,,,
+Shady RAT,,CN,,,
+Titan Rain,,CN,,,
+PKPLUG,,CN,,,
+Rampant Kitten,,IR,,,
+RedCurl,,CN,,,
+Red Dev 32,,CN,,,
+Red Dev 14,,CN,,,
+Red Dev 26,,CN,,,
+Safe,,CN,,,
+BlackEnergy,blackenergy gang,RU,,,
+Pat Bear,,SY,,,
+TaskMasters,,CN,,,
+Tempting Cedar Spyware,,LB,,,
+TRITON Group,,RU,,,
+Vendetta,,TR,,,
+Wassonite,,KP,,,
+xHunt,,IR,,,
+Avalanche,,RU,,,
+Cron,,RU,,,
+EvilNominatus,,IR,,,
+Windigo,,RU,,,
+Yingmob,,CN,,,
+Xe Group,,VN,,,
+Red Foxtrot,,CN,,,
+ParkingBear,,RU,,,
+Poisonous Panda,,CN,,,
+Hurricaine Panda,,CN,,,
+Radical Jackal,,ES,,,
+RedHack,,TR,,,
+Jackpot Panda,,CN,,,
+Festive Jackal,,LB,,,
+Percussion Spider,,TR,,,
+Regal Jackal,,IR,,,
+Outrider Tiger,,IN,,,
+Alchemist Spider,,RU,,,
+Vapor Panda,,CN,,,
+Ethereal Panda,,CN,,,
+Sleepy Lynx,,GE,,,
+Evanescent Bat,,RU,,,
+Jiin,,FR,,,
+Pryzraky Group,,BR,,,
+Anon Italia,,IT,,,
+Demonsad,,BR,,,
+Newsec Group,,BR,,,
+Pinoy LulzSec,,PH,,,
+The Dark Overlord,,US,,,
+Blue Dragon,,RU,,,
+Sprek3rsSec,,BR,,,
+LulzSec Italia,,IT,,,
+Habil Moonz,,ID,,,
+Russiansec,,RU,,,
+Jtsec,,CA,,,
+CyberGhost404,,PH,,,
+Chuckling Squad,,US,,,
+North African Fox,,DZ,,,
+Greenspot,,TW,,,
+Yahoo Boys,,NG,,,
+Cobalt Aztec,,IR,,,
+Gold Blazer,,RU,,,
+Gold Barondale,,CN,,,
+Gold Espresso,,RU,,,
+Gold Heron,,RU,,,
+Gold Mystic,,RU,,,
+Gold Phantom,,RU,,,
+Gold Sonata,,RU,,,
+Gold Ulrick,,RU,,,
+Gold Village,,RU,,,
+Gold Zodiac,,RU,,,
+Gold Lounge,,RU,,,
+A41APT,,CN,,,
+BabyElephant,,IN,,,
+Agrius,,IR,,,
+LuminousMoth,,CN,,,
+Tengyun-snake/Teng Snake/Genesis Day,,CN,,,
+EGoManiac,,TR,,,
+UNC245,,CN,,,
+DEV-0343,,IR,,,
+Luhansk Group,,RU,,,
+Pay2Key,,IR,,,
+Vovan and Lexus,,RU,,,
+Dangerous Password,,KP,,,
+UAC-0041,,RU,,,
+Kostovite,,CN,,,
+Kamacite,,RU,,,
+Vanadinite,,CN,,,
+NSO Group,,IL,,,
+CyberRoot,,IN,,,
+TarnishedGauntlet,,IR,,,
+DarKrypt,,IR,,,
+Holy Souls,,IR,,,
+Rose Matsil,,GE,,,
+ReconHellcat,,RU,,,
+White Dev 51,,AM,,,
+BellTroX,,IN,,,
+White Mjolnir,,RU,,,
+White Helios,,RU,,,
+White Morok,,RU,,,
+TA408,,KP,,,
+TA427 ,,KP,,,
+UNC3347,,CN,,,
+UNC3784,,CN,,,
+UNC3905,,RU,,,
+DEV-0215,,KP,,,
+DEV-0448,,RU,,,
+DEV-0387,,RU,,,
+DEV-0216,,RU,,,
+TA425,,IN,,,
+DEV-0530,,KP,,,
+Outlaw,,RO,,,
+Hive0087,,IR,,,
+Hive0089,,CN,,,
+1877 Team,,IQ,,,
+Cadet Blizzard,,RU,,,
+UNC3762,,RU,,,
+Cobalt Agora,,IR,,,
+Shadow Force,,CN,,,
+DEV-0960,,RU,,,
+HomeLand Justice,,IR,,,
+DEV-0861,,IR,,,
+IntrudingDivisor,,IR,,,
+Bax026,,IR,,,
+Ictus Team,,IR,,,
+FamousSparrow,,CN,,,
+GhostEmperor,,CN,,,
+Curious Jackal,,VE,,,
+Knotweed,,AT,,,
+Fallaga team,,TN,,,
+TsNIIKhM,,RU,,,
+DEV-0234,,CN,,,
+DEV-0228,,IR,,,
+Earth Yako,,CN,,,
+Royal Spider,,RU,,,
+Asylum Ambuscade,,BY,,,
+APT-K-47,,PK,,,
+Flax Typhoon,,CN,,,
+Pulsar Kitten,,IR,,,
+tag-28,,CN,State-sponsored,Information theft and espionage,2021.0
+twisted panda,,CN,,Information theft and espionage,2021.0
+ALLANITE,Palmetto fusion,,,Information theft and espionage,2017.0
+Evasive Panda,Daggerfly,CN,China,"Espionage, Information theft and espionage",2012.0
