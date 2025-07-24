@@ -9,7 +9,7 @@ It provides curated datasets used in the longitudinal study of Advanced Persiste
 ## Dataset Overview
 The repository contains the following collections:
 
-### 1. Threat Actor Collection
+### [Threat Actor Collection](Threat_Actor_Collection.csv)
 A comprehensive list of APT groups, each annotated with:
   - Unique identifier  
   - Known aliases  
@@ -18,14 +18,14 @@ A comprehensive list of APT groups, each annotated with:
   - Motivation
   - First known activity year
 
-### 2. Technical Report Collection
+### [Technical Report Collection](Technical_Report_Collection.csv)
 Metadata of technical reports used for analysis, including:
   - Publication date  
   - Report filename  
   - Title  
   - Source download link
 
-### 3. Information Retrieval Collection
+### [Information Retrieval Collection](Information_Retrieved_Collection.csv)
 Refined dataset resulting from the extraction and validation of structured information from the reports. 
 Information was obtained through a combination of rule-based, LLM-based, and manual methods:
 
