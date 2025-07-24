@@ -50,4 +50,4 @@ After comparative evaluation, **GPT-4-Turbo** was selected for its highest perfo
   - Campaign duration or timeline
 
 #### `Manual Verification`
-Due to the persistent and stealthy nature of APT campaigns, LLM-derived information—particularly attack durations—was manually reviewed and validated for consistency and accuracy.
+Due to the persistent and stealthy nature of APT campaigns, LLM-derived information on attack durations was manually reviewed and validated for accuracy.
