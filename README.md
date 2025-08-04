@@ -45,9 +45,9 @@ After comparative evaluation, **GPT-4-Turbo** was selected for its highest perfo
   - Victim country  
   - Use of zero-day exploits  
   - Initial attack vectors  
-  - Malware and tool names  
-  - Targeted industry sectors  
-  - Campaign duration or timeline
+  - Malware names  
+  - Targeted sectors  
+  - Campaign duration
 
 #### `Manual Verification`
 Due to the persistent and stealthy nature of APT campaigns, LLM-derived information on attack durations was manually reviewed and validated for accuracy.
