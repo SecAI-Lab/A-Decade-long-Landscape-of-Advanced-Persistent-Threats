@@ -2,9 +2,20 @@
 
 This repository accompanies the paper **"A Decade-long Landscape of Advanced Persistent Threats: Longitudinal Analysis and Global Trends"**, published in the *Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications Security (CCS '25)*.
 
-It provides curated datasets used in the longitudinal study of Advanced Persistent Threat (APT) campaigns across the last decade along with the code used to generate figures included in the paper for full reproducibility.
+It provides:
+- Visual representations of APT campaigns, including an interactive map and a flow diagram showing relationships between threat actors and target countries  
+- Curated datasets from the longitudinal study of Advanced Persistent Threat (APT) campaigns across the last decade  
+- Python code to generate the figures included in the paper for full reproducibility  
 
 ---
+
+## Visual Representation
+
+This repository provides interactive visualizations that complement the findings in the paper:
+- **[Interactive APT Map](https://lngt-apt-study-map.vercel.app/)** 
+  - A map enabling exploration of APT campaigns by selecting either an attacking or victim country. It presents decade-long historical data including threat actor(s), CVEs, attack vector(s), malware, target sector(s), and estimated duration. Data is dynamically updated using LLM-based retrieval from **[technical reports source](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections)**. It also integrates a timeline chart linking campaigns to relevant news articles for additional context.
+- **[Threat Actor - Victim Country Flow Diagram](https://public.tableau.com/app/profile/anonymouseauthor/viz/TopMentionedCountries/Top30Countries)** 
+  - An interactive Sankey-style diagram visualizing the relationships between the top 10 threat actors and the 30 most frequently targeted countries over the past decade.
 
 ## Dataset Overview
 The repository contains the following collections:
