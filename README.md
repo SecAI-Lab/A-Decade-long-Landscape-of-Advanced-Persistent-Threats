@@ -3,36 +3,37 @@
 This repository accompanies the paper **"A Decade-long Landscape of Advanced Persistent Threats: Longitudinal Analysis and Global Trends"**, published in the *Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications Security (CCS '25)*.
 
 It provides:
-- Visual representations of APT campaigns, including an interactive map and a flow diagram showing relationships between threat actors and target countries  
-- Curated datasets from the longitudinal study of Advanced Persistent Threat (APT) campaigns across the last decade  
+- Curated datasets from the longitudinal study of Advanced Persistent Threat (APT) campaigns across the last decade 
+- Visual representations of APT campaigns, including an interactive map and a flow diagram showing relationships between threat actors and target countries   
 - Python code to generate the figures included in the paper for full reproducibility  
 
 ---
-
-## Visual Representation
-
-This repository provides interactive visualizations that complement the findings in the paper:
-- **[Interactive APT Map](https://lngt-apt-study-map.vercel.app/)** 
-  - A map enabling exploration of APT campaigns by selecting either an attacking or victim country. It presents decade-long historical data including threat actor(s), CVEs, attack vector(s), malware, target sector(s), and estimated duration. Data is dynamically updated using LLM-based retrieval from **[technical reports source](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections)**. It also integrates a timeline chart linking campaigns to relevant news articles for additional context.
-- **[Threat Actor - Victim Country Flow Diagram](https://public.tableau.com/app/profile/anonymouseauthor/viz/TopMentionedCountries/Top30Countries)** 
-  - An interactive Sankey-style diagram visualizing the relationships between the top 10 threat actors and the 30 most frequently targeted countries over the past decade.
-
 ## Dataset Overview
 The repository contains the following collections:
 
 ### [Threat Actor Collection](Threat_Actor_Collection.csv)
-A comprehensive list of APT groups, each annotated with:
+Aggregates APT threat actor (TA) information from three curated open-source repositories (TA#1–TA#3):
+- TA#1  **[MISP Galaxy](https://github.com/MISP/misp-galaxy)**
+- TA#2: **[EternalLiberty](https://github.com/StrangerealIntel/EternalLiberty)**
+- TA#3: **[APTmap](https://github.com/andreacristaldi/APTmap/)**
+
+Each record provides:
   - Unique identifier  
   - Known aliases  
-  - Country of origin (attributed)  
+  - Attributed country of origin  
   - Sponsoring entity
   - Motivation
-  - First known activity year
+  - First recorded year of activity
 
 ### [Technical Report Collection](Technical_Report_Collection.csv)
-Metadata of technical reports used for analysis, including:
+Consolidates metadata on APT technical reports from three open-source repositories (TR#1–TR#3):
+- TR#1: **[APT & Cybercriminals Campaign Collection](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections)**
+- TR#2: **[APTnotes](https://github.com/aptnotes/data)**
+- TR#3: **[Malpedia](https://malpedia.caad.fkie.fraunhofer.de/library)**
+
+Metadata fields include:
   - Publication date  
-  - Report filename  
+  - Filename  
   - Title  
   - Source download link
 
@@ -63,9 +64,17 @@ After comparative evaluation, **GPT-4-Turbo** was selected for its highest perfo
 #### `Manual Verification`
 Due to the persistent and stealthy nature of APT campaigns, LLM-derived information on attack durations was manually reviewed and validated for accuracy.
 
-## Figure Drawing Code
+## Visual Representation
 
-The [`Figure Drawing Code`](Figure%20Drawing%20Code/) directory contains Python scripts for generating the figures presented in the paper.  
+This repository provides interactive visualizations that complement the findings in the paper:
+- **[Interactive APT Map](https://lngt-apt-study-map.vercel.app/)** 
+  - A map enabling exploration of APT campaigns by selecting either an attacking or victim country. It presents decade-long historical data including threat actor(s), CVEs, attack vector(s), malware, target sector(s), and estimated duration. Data is dynamically updated using LLM-based retrieval from **[TR#1](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections)**. It also integrates a timeline chart linking campaigns to relevant news articles for additional context.
+- **[Threat Actor - Victim Country Flow Diagram](https://public.tableau.com/app/profile/anonymouseauthor/viz/TopMentionedCountries/Top30Countries)** 
+  - An interactive Sankey-style diagram visualizing the relationships between the top 10 threat actors and the 30 most frequently targeted countries over the past decade.
+
+## Global Trends
+
+The [`Global Trends`](Global%20Trends/) directory contains Python scripts for generating the figures presented in the paper.  
 Each script reads from the curated datasets in this repository and outputs a figure in **PDF format** using the same visual style and parameters as in the published paper.
 
 ### Usage
@@ -81,10 +90,3 @@ On Debian/Ubuntu (including WSL), run:
 sudo apt install msttcorefonts -qq
 rm -rf ~/.cache/matplotlib
 ```
-
-### Example Usage
-Navigate to the [`Figure Drawing Code`](Figure%20Drawing%20Code/) directory and run a script:
-```bash
-python draw_Figure4a.py
-```
-The generated PDF will be saved in the current working directory.
