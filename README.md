@@ -64,7 +64,7 @@ After comparative evaluation, **GPT-4-Turbo** was selected for its highest perfo
 #### `Manual Verification`
 Due to the persistent and stealthy nature of APT campaigns, LLM-derived information on attack durations was manually reviewed and validated for accuracy.
 
-## Visual Representation
+## Visual Representations
 
 This repository provides interactive visualizations that complement the findings in the paper:
 - **[Interactive APT Map](https://lngt-apt-study-map.vercel.app/)** 
