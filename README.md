@@ -18,12 +18,12 @@ Aggregates APT threat actor (TA) information from three curated open-source repo
 - TA#3: **[APTmap](https://github.com/andreacristaldi/APTmap/)**
 
 Each record provides:
-  - Unique identifier  
-  - Known aliases  
-  - Attributed country of origin  
-  - Sponsoring entity
+  - "Threat Actor": Unique identifier  
+  - "Other Names": Known aliases  
+  - "Country": Attributed country of origin  
+  - "Sponsor": Sponsoring entity
   - Motivation
-  - First recorded year of activity
+  - "First seen": First recorded year of activity
 
 ### [Technical Report Collection](Technical_Report_Collection.csv)
 Consolidates metadata on APT technical reports from three open-source repositories (TR#1–TR#3):
@@ -32,10 +32,10 @@ Consolidates metadata on APT technical reports from three open-source repositori
 - TR#3: **[Malpedia](https://malpedia.caad.fkie.fraunhofer.de/library)**
 
 Metadata fields include:
-  - Publication date  
+  - "Date": Publication date  
   - Filename  
   - Title  
-  - Source download link
+  - "Download Url": Source download link
 
 ### [Information Retrieval Collection](Information_Retrieved_Collection.csv)
 Refined dataset resulting from the extraction and validation of structured information from the reports. 
@@ -78,15 +78,24 @@ The [`Global Trends`](Global%20Trends/) directory contains Python scripts for ge
 Each script reads from the curated datasets in this repository and outputs a figure in **PDF format** using the same visual style and parameters as in the published paper.
 
 ### Usage
-All figure drawing scripts require **Python 3.8+** and the following Python packages:
+All figure-generation scripts require require **Python 3.8+** and the following Python packages:
 ```bash
-pip install pandas numpy altair vl-convert-python seaborn matplotlib
+pip install pandas numpy altair vl-convert-python seaborn matplotlib fonttools
 ```
-### Font Configuration
-The figures in the paper use specific fonts.
+After installing the dependencies, you can run a script with:
+```bash
+cd "Global Trends"
+python {desiredCode}.py
+```
+Running a script will produce a **PDF file** in the current directory.
 
-On Debian/Ubuntu (including WSL), run:
+### Font Configuration
+The figures in the paper use specific fonts.  
+If they are missing, Matplotlib will show `findfont` warnings and fall back to its default fonts. The scripts will still run correctly, and figures will be generated. 
+
+To suppress the warnings and use the intended fonts on Linux systems, run:
 ```bash
 sudo apt install msttcorefonts -qq
 rm -rf ~/.cache/matplotlib
 ```
+On Windows and macOS, installing these fonts can be more complex, and is optional.
