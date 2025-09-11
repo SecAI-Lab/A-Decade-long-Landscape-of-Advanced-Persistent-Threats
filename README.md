@@ -80,7 +80,7 @@ Each script reads from the curated datasets in this repository and outputs a fig
 ### Usage
 All figure-generation scripts require require **Python 3.8+** and the following Python packages:
 ```bash
-pip install pandas numpy altair vl-convert-python seaborn matplotlib fonttools
+pip install pandas numpy altair vl-convert-python seaborn matplotlib
 ```
 After installing the dependencies, you can run a script with:
 ```bash
@@ -98,4 +98,5 @@ To suppress the warnings and use the intended fonts on Linux systems, run:
 sudo apt install msttcorefonts -qq
 rm -rf ~/.cache/matplotlib
 ```
+
 On Windows and macOS, installing these fonts can be more complex, and is optional.
